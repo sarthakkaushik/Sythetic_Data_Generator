@@ -23,7 +23,7 @@ A comprehensive Python toolkit for generating realistic synthetic data based on 
 
 ```bash
 # Clone the repository
-git https://github.com/sarthakkaushik/Sythetic_Data_Generator.git
+git clone https://github.com/sarthakkaushik/Sythetic_Data_Generator.git
 cd synthetic-data-generator
 
 # Create virtual environment with UV
